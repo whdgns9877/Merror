@@ -6,9 +6,9 @@
 ![TitleWorkout](https://user-images.githubusercontent.com/67819713/195285303-2a743e88-fbbf-405f-ad04-dcb026b46703.png)
                                                            *i have to kill myself...*
    
-![Video Label](http://img.youtube.com/vi/7b85Jzz34kk/0.jpg)
+![Video Label](http://img.youtube.com/vi/y0vJJrkU1Lo/0.jpg)
 
-[VideoLink] (https://youtu.be/7b85Jzz34kk)
+[VideoLink] (https://youtu.be/y0vJJrkU1Lo)
 
 &nbsp;
 
@@ -20,7 +20,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![photon](https://github.com/whdgns9877/RoyalOfLegend/assets/49630123/5078b0ca-0ca5-43c6-ad71-500b7ef6a70d) PUN2
 &nbsp;
 
 ## 🗓️ 작업 기간
