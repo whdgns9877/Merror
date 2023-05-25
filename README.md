@@ -5,8 +5,16 @@
 ## 🎞️ **Introduce Game**
 ![TitleWorkout](https://user-images.githubusercontent.com/67819713/195285303-2a743e88-fbbf-405f-ad04-dcb026b46703.png)
                                                            *i have to kill myself...*
+
+&nbsp;
+## 트레일러 영상
+![Video Label](http://img.youtube.com/vi/y0vJJrkU1Lo/0.jpg)
+
+[VideoLink] (https://youtu.be/y0vJJrkU1Lo)
+&nbsp;
  
-&nbsp;   
+&nbsp;
+## 플레이 영상
 ![Video Label](http://img.youtube.com/vi/y0vJJrkU1Lo/0.jpg)
 
 [VideoLink] (https://youtu.be/y0vJJrkU1Lo)
