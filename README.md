@@ -20,26 +20,21 @@ Let's kill another me...
 </div>
 
 
-## 🧑🏻 Team Member 
-<div align = "center">
 
-
-
-```
-Jeon Mu Hyuk
-
-Kim Jong Hoon
-
-Kim Bo Kang
-
-Choi Min Ju
-
-Kwon Yong Mun
-
-Sin Sung Hwan
-
-```
-</div>
+## 🔧 기술 스택
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Photon](⚛?style=for-the-badge&logo=github&logoColor=white);
+&nbsp;
 
 * Notion : [Notion](https://topaz-mantis-c3b.notion.site/Team-Relax-Box-0c84487b632e43e79223cae4f1cbf232)
 
