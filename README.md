@@ -8,9 +8,9 @@
 
 &nbsp;
 ## 트레일러 영상
-![Video Label](http://img.youtube.com/vi/y0vJJrkU1Lo/0.jpg)
+![Video Label](http://img.youtube.com/vi/sXhtlnkgTeA/0.jpg)
 
-[VideoLink] (https://youtu.be/y0vJJrkU1Lo)
+[VideoLink] (https://youtu.be/sXhtlnkgTeA)
 &nbsp;
  
 &nbsp;
@@ -18,6 +18,8 @@
 ![Video Label](http://img.youtube.com/vi/y0vJJrkU1Lo/0.jpg)
 
 [VideoLink] (https://youtu.be/y0vJJrkU1Lo)
+&nbsp;
+
 &nbsp;
 
 ## 🔧 기술 스택
@@ -29,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![photon](https://github.com/whdgns9877/RoyalOfLegend/assets/49630123/5078b0ca-0ca5-43c6-ad71-500b7ef6a70d) PUN2
+&nbsp;
+
 &nbsp;
 
 ## 🗓️ 작업 기간
