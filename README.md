@@ -1,7 +1,7 @@
 # 🎆[ **Team Relax Box** ]🎆
 ![TeamLogoOrigin](https://user-images.githubusercontent.com/67819713/195285425-776cdb3e-903e-4650-b33d-4e9d877bcce1.gif)
 #
-# 💾 [ **Me'rror Projects** ] 💾
+# 💾 [ **Me'rror Project** ] 💾
 ## 🎞️ **Introduce Game**
 &nbsp;
 ### 퍼즐을 풀어나가며 진행하는 1인칭 심리 공포게임
