@@ -57,4 +57,4 @@
 &nbsp;
 
 * Development Log : [Development Log](https://blog.naver.com/whdgns9877/222898388447)
-
+* Notion : [Notion](https://topaz-mantis-c3b.notion.site/Team-Relax-Box-0c84487b632e43e79223cae4f1cbf232)
